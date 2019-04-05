@@ -7,5 +7,6 @@ Some Algorithms I have met
 #### [4. 归并排序算法](https://github.com/susufqx/Some-Algorithms/blob/master/fusionsort.c)
 #### [5. 蚁群算法解决旅行家问题](https://github.com/susufqx/Some-Algorithms/blob/master/fourmi.c)
 #### [6. 最大流问题](https://github.com/susufqx/Some-Algorithms/blob/master/maxflow.c)
+#### [7. 四种页面置换的实现](https://github.com/susufqx/Some-Algorithms/blob/master/page.c)
 
 <b style="color:red">部分代码来自于在法国学习时，所以一些注释或者命名采用的法语.</b>
